@@ -1,0 +1,47 @@
+-- Cheat Engine(Increase Amount of Money) --
+1. Download Cheat Engine
+	1. Go to https://www.cheatengine.org/
+	2. Press on Big Button - "Download Cheat Engine"
+2. Run the installer(BE CAREFULL TO OMIT OPTIONAL OPERA AND AVAST INSTALLS)
+
+3. Run the GTA V
+	* Go to GTA online
+4. Get a personal(PERSONAL - VERY IMPORTANT) vechile
+	* Personal - Lost theft protection and tracker
+5. Harm the vechile(so theere is repair option in LS Customs
+6. Drive the vechile to LS Customs and enter it
+
+7. Run Cheat Engine
+8. Select Proccess
+	1. Press monitor button in cheat engine
+	2. Choose a proccess(GTA V) in the menu that opens
+9. Go to Sell option(BUT DO NOT SELL) and look at the sell price
+10. Enter Sell price into "Value" field in cheat engine 
+11. Press "First Scan"
+
+12. Repair the vechile in LS customs(Press repair)
+13. Go to Sell option(BUT DO NOT SELL) and look at the new sell price
+14. Enter the new sell price into "Value" field in cheat engine
+15. Press "Next Scan"
+16. Go to the box where all of the addresses are listed and press "CTRL + A"
+17. Press Red Arrow
+18. Go to the Field where active addresses are(addresses that were copied from the previous box by arrow)
+19. Press on last value and press "CTRL + A"
+20. Double click on the value field in the last address
+21. Change the value to 1000000000
+22. Press OK
+
+23. Go to GTA to sell option and press sell
+24. GTA should crash
+25. Press alt+f4
+26. Re-enter GTA and you have 1 000 000 000
+
+
+-- Cheats(GTA cheats like teleport, super-jump...) --
+1. Download cheat from https://ezcheats.com/gta5/kiddions-modest-nakrutka-deneg-razblokirovka-predmetov-i-prochie-veselye-chity-dlya-gta-5-online.html
+	* Name - modest-menu_v0.8.10.rar
+2. Extract everything from the cheat archive
+3. Open GTA V(FIRST TIME THIS SHOULD BE OPENED IN STORY MODE!!!!!!!!!!, in subsequent times it could be opened in GTA online)
+4. Open Modest-Menu Cheat
+* THE GTA SHOULD BE IN WINDOWED OR WINDOWED BORDERLESS
+
