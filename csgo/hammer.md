@@ -29,6 +29,7 @@
 * [Drawing textures on on another(Blending)](https://www.youtube.com/watch?v=_MgvPz9d8dY)
 	* To remove the texture that is painted on another change the `Value` in `Paint Alpha` to a negative one(e.g. -50) and remove the part of the texture where it isn't needed
 * [Creating shapes other then blocks](https://www.youtube.com/watch?v=zkeZQ6vY1Gg)
+* Place objects more accuratly - Go to the bar with editor tools(under window's toolbar) -> Press on grid sign with a minus(3rd button on the bar) to make moving objects more accurate(by increasing amount of cubes on the grid) or grid sign with a plus(4th button on the bar) to make moving objects less accurate
 
 ## Fixes
 * `CSGO Does not start after compilation` - Press `F9`; Press `Expert`; In configuartions select `Fast`; Press `Go`
