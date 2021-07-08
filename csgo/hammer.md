@@ -28,6 +28,7 @@
 	* The water texture(no draw) should be a large block and can't be the minimum thickness or the game won't compile
 * [Drawing textures on on another(Blending)](https://www.youtube.com/watch?v=_MgvPz9d8dY)
 	* To remove the texture that is painted on another change the `Value` in `Paint Alpha` to a negative one(e.g. -50) and remove the part of the texture where it isn't needed
+* [Creating shapes other then blocks](https://www.youtube.com/watch?v=zkeZQ6vY1Gg)
 
 ## Fixes
 * `CSGO Does not start after compilation` - Press `F9`; Press `Expert`; In configuartions select `Fast`; Press `Go`
