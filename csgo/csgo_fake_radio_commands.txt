@@ -1,0 +1,12 @@
+playerradio Radio.WePlanted " NGX has opened a container and found:  PP-Bizon | Sand Dashed"
+playerradio Radio.WePlanted " NGX has opened a container and found:  AWP | Safari Mesh"
+playerradio Radio.WePlanted " NGX has opened a container and found:  Desert Eagle | Blaze"
+
+playerradio Radio.WePlanted " NGX has received in trade:  StatTrak™ AWP | Neo-Noir"
+playerradio Radio.WePlanted " NGX has received in trade:  AWP | Dragon Lore"
+playerradio Radio.WePlanted " NGX has received in trade: ★ Karambit | Lore"
+
+playerradio Radio.WePlanted " NGX has received in trade:  StatTrak™ AWP | Neo-Noir"; playerradio Radio.WePlanted " NGX has received in trade:  AWP | Dragon Lore"; playerradio Radio.WePlanted " NGX has received in trade: ★ Karambit | Lore"
+
+Fake radio generator - https://output.jsbin.com/gilusiw
+Fake radio reddit - https://www.reddit.com/r/GlobalOffensive/comments/o940a6/you_can_use_the_recently_discovered_radio/h38wdpm/
