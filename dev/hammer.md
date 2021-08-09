@@ -40,7 +40,7 @@
 * [Custom Textures](https://www.youtube.com/watch?v=6BBq-bQJCHs)
 	* [VTFEdit does not always create a VMT file, guide from valve to do it](https://developer.valvesoftware.com/wiki/Creating_a_Material)
 * Custom Props
-	* [TopHatWaffle](https://www.youtube.com/watch?v=cNqG38bKKNQ)
+	* [TopHatWaffle](https://www.youtube.com/watch?v=R3_GFL3CYO8)
 
 
 
