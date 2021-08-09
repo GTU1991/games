@@ -1,0 +1,6 @@
+1. Install Clownfish - https://clownfish-translator.com/voicechanger/download.html
+2. Go to clownfish install folder in program files and create a desktop shortcut for the executable
+3. On the desktop right click the clown fish shortcut, click open
+    1. Configure the microphone in setup -> System integration
+    2. Turn on(by pressing): Turn on, Set voice changer
+    3. Click Set Voice changer and in effect mixer connect Robot and Male pitch voices
