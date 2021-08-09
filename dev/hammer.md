@@ -8,6 +8,7 @@
 * `To edit a texture` - select it(by clicking on it while in selection tool) and then change it's size by draging points in 2D grids
 * `To rotate a block` - select a block in 3d view(while in selection tool); click on it once more in one of 2D views and drag the newly appeared points on edges to rotate it around
 * `Resize Prop` - select a prop_static; hold SHIFT and use mouse wheel to change size
+* [Adding props](https://www.youtube.com/watch?v=3ZgIknUD7-Q)
 * [Creating shapes other then blocks](https://www.youtube.com/watch?v=zkeZQ6vY1Gg)
 * `Place objects more accuratly` - Go to the bar with editor tools(under window's toolbar) -> Press on grid sign with a minus(3rd button on the bar) to make moving objects more accurate(by increasing amount of cubes on the grid) or grid sign with a plus(4th button on the bar) to make moving objects less accurate
 
@@ -38,7 +39,9 @@
 ## Importing
 * [Custom Textures](https://www.youtube.com/watch?v=6BBq-bQJCHs)
 	* [VTFEdit does not always create a VMT file, guide from valve to do it](https://developer.valvesoftware.com/wiki/Creating_a_Material)
-* [Adding props](https://www.youtube.com/watch?v=3ZgIknUD7-Q)
+* Custom Props
+	* [TopHatWaffle](https://www.youtube.com/watch?v=cNqG38bKKNQ)
+
 
 
 ## Problem Fixes
