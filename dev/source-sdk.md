@@ -24,6 +24,10 @@
 			* In the step where it tells to change GAMENAME macro, open the `game_shader_dx9_<your_modname>.vpc` and make GAMENAME equal `mod_<MOD_NAME>`
 			* Do not do the third step about valve project creator and just follow to the next section
 
+### Step by step guide
+* Create a step by step guide(1. 2. ...) explained here and not just commentary on valve's docs
+
+
 
 ## Solving Errors
 * When installing VS2013, it gives "Unable to locate package source" error
