@@ -39,3 +39,4 @@
 	6. Open the mounted ISO by clicking on it in `This PC` and copy all of the files from the mounted ISO on to some folder on the computer
 	7. Go to `This PC` in explorer, right click on mounted iso and press `Eject`
 	8. Go to the folder where files from `iso` were copied to and `vs_community.exe`
+* [Uninstalling VS2013](https://social.msdn.microsoft.com/Forums/vstudio/en-US/89e7cc94-25dc-43b5-9dfc-4fa239eb9606/uninstalling-visual-studio-2013?forum=vssetup)
